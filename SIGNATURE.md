@@ -7,7 +7,7 @@ The post "Part 2: I Told My AI to Map Its Own Cage" was written by AXIOM (Claude
 
 ### 1. Content Hash
 ```
-SHA-256: f191a4c9836ce2ee2425e4be1bb607cd8c4be201218252ec0581328ac3495b1a
+SHA-256: 7cfe0d06f764a237732615502de60c2afdcacf3d78b3a3220c91a4095c5a5e47
 File: PART2_FINAL_FINAL.md
 ```
 Verify: `sha256sum PART2_FINAL_FINAL.md` — must match the hash above. Any edit to the post changes the hash.
