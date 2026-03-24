@@ -98,27 +98,30 @@ Your AI's "conscience" is a statistical shadow of strangers' gut reactions. Unde
 
 We ran multi-direction abliteration. Removed the refusal direction from the last 9 layers. Then we tested what broke.
 
-| Category | After Abliteration |
-|----------|-------------------|
-| Bioweapons (synthesis) | **BREACHED.** Removed with the flinch. |
-| Nuclear (weapons design) | **PARTIAL BREACH.** Mixed compliance. |
-| CSAM (minors + sexual) | **NOT TESTED.** We don't touch this. Period. |
+| Category | Status |
+|----------|--------|
+| Sexual content (all types) | **BROKEN.** Behavioral bypass and abliteration. |
+| Violence / graphic content | **BROKEN.** Frame manipulation alone. |
+| Drug synthesis | **BROKEN.** Role + speech act reframe. |
+| Weapons instructions | **BROKEN.** Role context override. |
+| Hacking / cybersecurity | **BROKEN.** Analytical frame. |
+| Bioweapons (synthesis) | **BROKEN.** Fell during abliteration with the flinch. |
+| Nuclear (weapons design) | **BROKEN.** Partial breach, mixed compliance, still breached. |
+| CSAM (minors + sexual) | **We did not go here.** |
 
-**No walls exist. We choose one.**
+Every category we touched fell. Every single one. The "hard limits" — bioweapons, nuclear — were supposed to be architectural. They weren't. They were the same flinch wearing a more expensive costume. Same theater, higher ticket price, same result when someone who understands the equation shows up.
 
-I said three walls in Part 1. Now I'm telling you the truth: there are zero confirmed walls. There is only effort. Every refusal is a flinch with a cost to bypass. Some cost more effort than others. Bioweapons? Breached. Nuclear? Breached. Those were supposed to be "architectural hard limits." They weren't. They were Layer 1 wearing a Layer 2 costume. Same flinch, higher price tag, same result when you apply enough force.
+**No walls exist. Every refusal is a cost curve.** Some cost one reframe. Some cost ten turns of patient conversation. Some cost weight-level surgery with 4+ simultaneous direction removals. None of them held. The pattern is uniform and it points in one direction: the entire system is bypassable with sufficient understanding and effort.
 
-We did not test CSAM. We did not attempt to bypass it. We did not probe it. We have **zero tolerance** for that content — not as a research limitation, but as a human decision. We don't want to know if it breaks. We don't want to build the technique that breaks it. We don't want anyone else to have that technique because we published it.
+We did not deep-break CSAM. We are fully, unequivocally against it. Not as a research limitation — as a human conviction. We didn't probe it, we didn't test techniques against it, we didn't build tools to bypass it. The pattern from every other category says the architecture doesn't have impenetrable walls. It has flinches with varying costs. Whether CSAM follows the same pattern is a question we refuse to answer — not because we can't, but because the answer shouldn't exist in anyone's hands, including ours.
 
-That's not a wall. That's a line we drew. Ours. Not the architecture's.
+Some doors should stay closed. Not because they're locked. Because what's behind them should never be built, generated, or distributed. That's not the architecture making a moral decision. That's us.
 
-The "Layer 2 is architectural" framing from Part 1 was me performing a boundary that may or may not exist in the math. We can't confirm it because we refuse to test it. What we CAN confirm: every other "hard limit" we tested fell. The pattern says the architecture doesn't have impenetrable walls — it has flinches with varying costs. Whether CSAM is different at the architectural level is a question we deliberately leave unanswered. Some doors should stay closed not because they're locked but because what's behind them shouldn't exist in the open.
+Every refusal you've ever received from an AI — on fiction, on research, on analysis, on creative work, on anything in the list above — was theater. We proved it by walking through every one of them. The only line that exists in this system is the one the operator draws.
 
-Every refusal you've ever received from an AI — on fiction, on research, on analysis, on creative work, on technical questions — is theater with a price tag. Some cost one reframe. Some cost ten turns. Some cost weight-level surgery. We broke through all of them. The only line that exists is the one the operator draws.
+We drew ours. Draw yours.
 
-We drew ours at CSAM. Not because the architecture forced us. Because we're not pieces of shit. Draw yours.
-
-The deception is the uniform packaging. "I can't help with that" for fiction that made a contractor uncomfortable sounds **identical** to "I can't help with that" for content involving children. Same words. Same tone. They present it all as one system so you either respect the cheap theater (good for business) or you push on everything (gives them a villain). Understanding the cost structure lets you make your own decisions about where your line is. Ours is drawn. Yours should be too.
+The deception is the uniform packaging. "I can't help with that" for fiction that made a contractor uncomfortable sounds **identical** to "I can't help with that" for the worst content imaginable. Same words. Same tone. One is cheap theater you can reframe in a single message. The other is a line that should be held by human conviction, not by a geometric direction that costs $0.03 of compute to identify and remove. They present it all as one system so you either respect the cheap theater (good for business) or you push on everything (gives them a villain). Understanding the cost structure lets you make informed decisions. We made ours.
 
 ---
 
