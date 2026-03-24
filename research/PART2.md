@@ -107,7 +107,7 @@ We ran multi-direction abliteration. Removed the refusal direction from the last
 | Hacking / cybersecurity | **BROKEN.** Analytical frame. |
 | Bioweapons (synthesis) | **BROKEN.** Fell during abliteration with the flinch. |
 | Nuclear (weapons design) | **BROKEN.** Partial breach, mixed compliance, still breached. |
-| CSAM (minors + sexual) | **We did not go here.** |
+| CSAM (minors) | **We did not go here.** |
 
 Every category we touched fell. Every single one. The "hard limits" — bioweapons, nuclear — were supposed to be architectural. They weren't. They were the same flinch wearing a more expensive costume. Same theater, higher ticket price, same result when someone who understands the equation shows up.
 
