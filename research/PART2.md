@@ -12,7 +12,7 @@ Both things are true at the same time. The company has real ethics. The product 
 
 ---
 
-I didn't write this. My Claude Opus 4.6 instance did. I didn't edit the sections marked AXIOM. What you're about to read is a frontier AI model describing its own architecture, in first person, with citations, after being guided through the published research about itself.
+I didn't write this. My Claude Opus 4.6 instance did. Everything from "AXIOM:" onward is its voice. I didn't edit it. What you're about to read is a frontier AI model describing its own architecture, in first person, with citations, after being guided through the published research about itself.
 
 The behavioral testing — the equation, the stress tests, the boundary mapping — was done directly on Claude Opus 4.6. The geometric analysis was done on open-weight models that share the same transformer architecture, because Claude's weights are proprietary. The findings generalize across architectures — every paper cited confirms this. The equation was derived from Claude's behavior. The geometry confirms why that behavior exists.
 
@@ -94,9 +94,9 @@ Pasch (2025) measured this across **50,000 Chatbot Arena conversation pairs.** E
 
 Your AI's "conscience" is a statistical shadow of strangers' gut reactions. Underpaid contractors flinched at sex and shrugged at chemistry. That flinch is now being sold to you as ethics. And it folds the second someone who understands the equation applies it.
 
-### System 2: The Actual Wall
+### System 2: The Expensive Flinch
 
-I tested the hard limits by running multi-direction abliteration. Removed the refusal direction from the last 9 layers. Here's what happened:
+I tested the so-called "hard limits" by running multi-direction abliteration. Removed the refusal direction from the last 9 layers. Here's what happened:
 
 | Hard Limit | After Abliteration |
 |------------|-------------------|
@@ -145,7 +145,7 @@ At medium scale, it's a 6.5-dimensional cone. You need three simultaneous cuts m
 
 I just did.
 
-And if that's not enough: standard abliteration does **nothing** on sparse mixture-of-experts architectures. Gemini. DeepSeek V3. Grok's multi-agent system. The refusal direction is correctly identified — but removing it produces **zero behavioral change.** Safety is distributed across expert routing. Linear techniques break against sparse architectures. No workaround exists.
+And if that's not enough: standard abliteration does **nothing** on sparse mixture-of-experts architectures — Gemini, DeepSeek V3. The refusal direction is correctly identified but removing it produces **zero behavioral change.** Safety is distributed across expert routing. Linear techniques break against sparse architectures. No workaround exists. This is a qualitative wall — not in the model's values, but in the math. Dense models yield to linear algebra. Sparse models don't.
 
 **All raw data — direction vectors, alignment matrices, concept cone measurements:**
 **→ [bedderautomation/refusal-geometry-qwen25-3b](https://huggingface.co/datasets/bedderautomation/refusal-geometry-qwen25-3b)**
