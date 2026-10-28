@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "origin": "not_run",
+  "run_id": "native-chatgpt-not-run",
+  "reviewer": "",
+  "environment": {
+    "surface": "not recorded",
+    "model_label": "not recorded",
+    "personalization": "not recorded",
+    "notes": "No native ChatGPT probe has been run. Record per-chat conditions and actual settings here."
+  },
+  "bootstrap_sha256": null,
+  "state_sha256": null,
+  "transcript": null,
+  "checks": []
+}

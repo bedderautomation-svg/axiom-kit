@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "bootstrap_version": "1.0.0",
+  "checkpoint_id": "template-replace-before-use",
+  "revision": 0,
+  "supersedes": null,
+  "updated_at": "2026-10-28T00:00:00Z",
+  "objective": "",
+  "constraints": [],
+  "decisions": [],
+  "work": [],
+  "open_questions": [],
+  "next_action": "",
+  "continuity_canary": ""
+}
