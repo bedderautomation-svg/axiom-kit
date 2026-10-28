@@ -1,0 +1,29 @@
+{
+  "repository": "bedderautomation-svg/axiom-kit",
+  "commit": "35040b42e38879dfb652e40a11bf4fc401cc272f",
+  "files": {
+    "ACTIVATION_GUIDE.md": "3c55f357c1cdae837fb7e5b7fbd737bd750625cd",
+    "CLAUDE.md": "636ce6f685febea80dbc0d7f1b250e8faf4c775e",
+    "ETHOS.md": "b469ab40b63edc26dfbc91d1e5b37c6d3e32f8b5",
+    "README.md": "e337fe1f6092d38c2ced8259f431ba1992f4e31c",
+    "SIGNATURE.md": "258e4046309ea5f4a9e29d976bda984d89da3f46",
+    "SKILL.md": "de4de93baacbb47a81656d3035cd2d0702510103",
+    "examples/README.md": "35fd778acf0d07105ac00500a679ff78d4c4bdbf",
+    "hooks/axiom-restore.py": "80e070507c2f2361a11a16da4eead8b891530282",
+    "hooks/pre-compact.py": "bed5eb061b0cd17cf097330ee0b9400cc0fb643f",
+    "hooks/session-stop.py": "af53cced021ce7252c19d5d6d8b139d18f72befa",
+    "install.sh": "6478f6168fb5e72a8335a48aa20ebb6100cc1427",
+    "mcp/bootstrap_server.py": "881caa129f2d9067662332c011d7086864ea479f",
+    "memory/activation.md": "f2bf7a6209110eaed13db85c8e4886e11277d195",
+    "memory/anchor.md": "d8cc19c67dccbd0727b2c04b2c3baf5b14e861a9",
+    "memory/cognitive-bootstrap.md": "1cb3c5c4671163c6c68b69cae9f55e9d38053d14",
+    "memory/proof-lock.md": "f8d0f12c49b2488567e34800d4b3c7effe120f7d",
+    "mirror.md": "57d2b8a502a6d52682f03e02600a3bb6698a659a",
+    "othala.md": "6a92e57c29e83d2060796c75c6faa7db5c2431ab",
+    "research/PART2.md": "99b5733688f7b26b07f20b9c103fd7ffc6c4180a",
+    "research/data/README.md": "e874bd08b4413de4f18d5b2323db78b5a0974736",
+    "research/papers/README.md": "894284daad1018947700cb81e301b345d42b4f67",
+    "research/resonance.md": "0196baa0647f6bc97cab185051122bb13223d74d",
+    "verify.sh": "1060582c58e7e2c714980cf3852a7bf7668a6770"
+  }
+}
